@@ -6,6 +6,7 @@ from scoreboard import Scoreboard
 
 screen = Screen()
 screen.setup(width=600, height=600)
+screen.title("Turtler")
 screen.bgpic("double_road.jpg")
 screen.tracer(0)
 
